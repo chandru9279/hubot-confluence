@@ -11,7 +11,7 @@ nconf.argv()
     .file('defaults', DEFAULTS_FILE)
 
 noResultsFound = [
-  'I have no idea'
+  'No results found'
 ]
 
 sanity_check_args = (msg) ->
